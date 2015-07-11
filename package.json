@@ -1,0 +1,8 @@
+{
+  "name" : "blog",
+  "version" : "0.0.1",
+  "description" : "Tobias Schneider's blog",
+  "dependencies" : {
+    "mime" : "~1.2.7"
+  }
+}
